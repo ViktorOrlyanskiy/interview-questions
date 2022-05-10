@@ -470,8 +470,8 @@ input[type="search"]::-webkit-search-results-decoration {
   height: 100%;
   border: 1px solid red;
   font-family: "SFProDisplay Regular", serif;
-  font-size: 20px;
-  line-height: 24px;
+  font-size: 18px;
+  line-height: 22px;
 }
 
 .container {
@@ -487,7 +487,6 @@ input[type="search"]::-webkit-search-results-decoration {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border: 1px solid red;
 }
 
 .content {
@@ -504,6 +503,8 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .answer {
   text-align: center;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .buttons {
@@ -522,8 +523,9 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .button {
-  min-width: 150px;
-  padding: 15px;
+  min-width: 100px;
+  padding: 10px;
+  font-size: 14px;
   font-weight: 700;
   text-align: center;
   border-radius: 2px;
