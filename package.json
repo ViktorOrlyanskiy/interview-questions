@@ -1,0 +1,19 @@
+{
+  "name": "12---interview-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ViktorOrlyanskiy/interview-questions.git"
+  },
+  "author": "viktor orlyanskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorOrlyanskiy/interview-questions/issues"
+  },
+  "homepage": "https://github.com/ViktorOrlyanskiy/interview-questions#readme"
+}
